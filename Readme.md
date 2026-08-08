@@ -115,7 +115,7 @@ An AI orchestration system designed to coordinate multiple LLMs, compare their r
 | Focus | Multi-model workflows, response comparison, AI agent coordination |
 | Scale | Personal / experimental project |
 | Impact | Explores structured reasoning across multiple LLMs rather than relying on a single model |
-| Repository | [GitHub](https://github.com/Chinmay731-gi) |
+| Repository | [GitHub](https://github.com/Chinmay731-gi/Council.git) |
 
 Council is built around the idea that no single LLM response should be taken at face value — instead, multiple models are queried and their outputs compared to produce more structured, debate-style reasoning. The project focuses heavily on backend orchestration logic for managing multi-model calls.
 

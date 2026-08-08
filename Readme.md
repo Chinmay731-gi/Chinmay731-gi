@@ -1,5 +1,5 @@
 <div align="center">
-<!-- Done -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:4C1D95,100:6D28D9&height=220&section=header&text=Chinmay%20Ihare&fontSize=52&fontColor=E9D5FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/ENTC%20Engineering-Smt Kashibai Navale College of Engineering%20Pune-6D28D9?style=for-the-badge&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/ENTC%20Engineering-Smt. Kashibai Navale College of Engineering%20Pune-6D28D9?style=for-the-badge&labelColor=1E1B4B" />
 <img src="https://img.shields.io/badge/Expected%20Graduation-2029-4C1D95?style=for-the-badge&labelColor=1E1B4B" />
 <img src="https://img.shields.io/badge/Location-India-7C3AED?style=for-the-badge&labelColor=1E1B4B&logo=googlemaps&logoColor=white" />
 
@@ -38,7 +38,7 @@
 
 ## 🧭 About Me
 
-I'm **Chinmay Ihare**, an **Electronics & Telecommunication Engineering (ENTC)** undergraduate student at **MITS Gwalior**, expected to graduate in **2029**. While my academic background is in ENTC, I've been steadily transitioning toward **software engineering**, with a strong focus on **backend development, full-stack engineering, and AI/ML**.
+I'm **Chinmay Ihare**, an **Electronics & Telecommunication Engineering (ENTC)** undergraduate student at **Smt. Kashibai Navale College of Engineering**, expected to graduate in **2029**. While my academic background is in ENTC, I've been steadily transitioning toward **software engineering**, with a strong focus on **backend development, full-stack engineering, and AI/ML**.
 
 I enjoy building systems that go beyond the surface — from writing a Git clone to understand version control internals, to architecting real-time applications and orchestrating multiple LLMs together. I care about clean backend architecture, systems thinking, and shipping things that actually work end-to-end, not just in theory.
 
@@ -136,7 +136,7 @@ A full-stack real-time chat platform with authentication, real-time messaging, a
 | Authentication | JWT-based auth with access and refresh token architecture |
 | Features | Real-time chat, conversation management, AI chat functionality, PostgreSQL persistence, Redis integration |
 | Scale | Full-stack personal project with a Dockerized development environment |
-| Repository | [GitHub](https://github.com/Chinmay731-gi) |
+| Repository | [GitHub](https://github.com/Chinmay731-gi/Vyra) |
 
 Vyra combines a React frontend with a FastAPI backend to deliver real-time messaging over WebSockets, backed by PostgreSQL for persistence and Redis for supporting infrastructure. Authentication is handled through a JWT access/refresh token flow, and the project ships with a fully Dockerized dev environment.
 
@@ -156,7 +156,7 @@ A Git-inspired version control system built to understand how version control wo
 | Stack | Systems-level implementation with CLI tooling |
 | Focus | Git internals, file handling, hashing, repository management, CLI development |
 | Scale | Educational / systems project |
-| Repository | [GitHub](https://github.com/Chinmay731-gi) |
+| Repository | [GitHub](https://github.com/Chinmay731-gi/PyGit) |
 
 Flashie reimplements core Git concepts — including hashing, repository structure, and file tracking — to build a genuine understanding of version control internals through a custom CLI.
 
@@ -176,29 +176,9 @@ An AI-powered robotic companion combining software, LLMs, memory, emotional stat
 | Stack | ESP32, Python, FastAPI, SQLite, SQLAlchemy, Ollama, Llama 3, Groq, Claude, ChromaDB |
 | Focus | AI robotics, LLM integration, memory systems, emotion engine, embedded systems, local AI |
 | Scale | Hardware-software integration project |
-| Repository | [GitHub](https://github.com/Chinmay731-gi) |
+| Repository | [GitHub](https://github.com/Chinmay731-gi/KIMI) |
 
 Kimi brings together embedded hardware (ESP32) with an LLM-driven backend that maintains memory (via ChromaDB and SQLite/SQLAlchemy) and models emotional state. It integrates with multiple LLM providers — including local models via Ollama, Llama 3, Groq, and Claude — to give the companion a responsive, memory-aware personality.
-
-</details>
-
-<br/>
-
-<details>
-<summary><strong>Payment Orchestration Layer — Backend Engineering Project</strong></summary>
-
-<br/>
-
-A backend engineering project focused on payment orchestration and double-entry ledger accounting, built during an internship.
-
-| Category | Details |
-|---|---|
-| Stack | Python, FastAPI, SQLAlchemy, PostgreSQL, Redis |
-| Focus | Double-entry accounting, payment orchestration, transaction processing, backend architecture |
-| Scale | Internship / backend systems project |
-| Repository | [GitHub](https://github.com/Chinmay731-gi) |
-
-This project implements core payment orchestration concepts on top of a double-entry ledger model, using FastAPI and SQLAlchemy for the application layer, PostgreSQL for persistent storage, and Redis to support backend infrastructure.
 
 </details>
 
@@ -254,7 +234,7 @@ Worked as a Python Development Intern, contributing to Python-based development 
 <div align="center">
 
 **B.Tech — Electronics & Telecommunication Engineering (ENTC)**
-MITS Gwalior
+Smt. Kashibai Navale College of Engineering
 *Expected Graduation: 2029*
 
 </div>

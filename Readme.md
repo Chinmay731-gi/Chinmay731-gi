@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/ENTC%20Engineering-MITS%20Gwalior-6D28D9?style=for-the-badge&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/ENTC%20Engineering-Smt Kashibai Navale College of Engineering%20Pune-6D28D9?style=for-the-badge&labelColor=1E1B4B" />
 <img src="https://img.shields.io/badge/Expected%20Graduation-2029-4C1D95?style=for-the-badge&labelColor=1E1B4B" />
 <img src="https://img.shields.io/badge/Location-India-7C3AED?style=for-the-badge&labelColor=1E1B4B&logo=googlemaps&logoColor=white" />
 

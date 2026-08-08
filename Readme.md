@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:4C1D95,100:6D28D9&height=220&section=header&text=Chinmay%20Ihare&fontSize=52&fontColor=E9D5FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Electronics+%26+Telecommunication+Engineering+Student;Aspiring+Software+%2F+Backend+Engineer;Building+with+Python%2C+FastAPI%2C+React+%26+TypeScript;Exploring+AI%2FML+and+LLM+Orchestration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Electronics+%26+Telecommunication+Engineering+Student;Aspiring+Software+%2F+Backend+Engineer;Building+with+Python%2C+FastAPI%2C+React+%26+TypeScript;Exploring+AI%2FML+and+LLM+Orchestration" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -65,15 +65,13 @@ Currently, I'm deepening my skills in **React, Next.js, FastAPI, Docker, Redis, 
 ## 🛠️ Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css&theme=dark" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,vite,tailwind&theme=dark" />
-
-*(includes React Native for mobile development)*
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind&theme=dark" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgresql,redis,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgresql,redis&theme=dark" />
 
 ### Cloud, DevOps & Tooling
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux&theme=dark" />
@@ -296,18 +294,6 @@ MITS Gwalior
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chinmay731-gi&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8&bg-color=1A0B2E" />
-
-</div>
-
-<br/>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -320,24 +306,12 @@ MITS Gwalior
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Chinmay731-gi/Chinmay731-gi/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-</div>
-
-<br/>
-
----
-
 ## 🔭 Current Focus
 
 ```yaml
 Learning:
   - Data Structures & Algorithms
-  - React / Next.js
+  - React
   - FastAPI
   - System Design
   - AI / ML
